@@ -76,7 +76,7 @@ body {
 
 .daniel-card {
     color: white;
-    background-image: url(../images/bg-pattern-quotation.svg);
+    background-image: url(./images/bg-pattern-quotation.svg);
     background-repeat: no-repeat;
     background-position: left 80% top 0%;
     transition: 0.8s ease;
